@@ -1,0 +1,7 @@
+{
+      "version_str":"NEW VERSION, DOWNLOAD NOW", # - this text will be displayed under the title of the dialog
+      "version":1 (1,2,19 .etc), # - this need for check build version client and apk on server, check versionCode in Gradle
+      "title":"New Update", # - title of update
+      "change_log":[{"title":"Title 1","text":"title 1 text"},{"title":"Title 2","text":"title 2 text"}], # - update log. The new object in the array will be shown as a new block
+      "update_link":"https://github.com/congnt1902/CloudPhone/raw/main/test.apk" 
+}
